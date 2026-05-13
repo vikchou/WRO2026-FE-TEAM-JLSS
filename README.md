@@ -1,7 +1,7 @@
 # 🏎️ WRO 2026 Future Engineers – Team JLSS
 
 <div align="center">
-  <img src="./planes/Esp32-S3.jpeg" alt="Team JLSS Autonomous Vehicle" width="600" style="border-radius: 15px;">
+  <img src="./otro/LOGO_JLSS.png" alt="Team JLSS Autonomous Vehicle" width="600" style="border-radius: 15px;">
 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/TU_INSTAGRAM/)
   [![Academy](https://img.shields.io/badge/Alpha_Student_Academy-Robotics_Team-orange?style=for-the-badge)](https://www.instagram.com/alphastudentacademy/)
